@@ -16,7 +16,7 @@
     <div id="cc" class="easyui-layout" style="width:1400px;height:400px;">   
      <div data-options="region:'north',title:'North Title',split:true" style="width:1400px;height:100px;">
      
-                 <center><font size="6">终于TMD查出来了</font></center>
+                 <center><font size="6">终于TMD查出来了1</font></center>
                  	名字：<input name="name" class="easyui-textbox" style="width:300px">
 	    <a id="btn" href="javascript:search()" class="easyui-linkbutton" data-options="iconCls:'icon-search'">搜索</a>
      </div>   
@@ -24,7 +24,7 @@
     <div data-options="region:'center',title:'center title'" style="padding:5px;background:#eee;">
          <input type="button" value="新增" onclick="aa()"/>
          <table id="dg"></table>
-         <div id="dd"></div>  
+         <div id="dd"></div>
          
     
     </div>   
