@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubboconsumer" />
+        <module name="dubboutil" />
+        <module name="pfghmjk" />
+        <module name="springbootaa" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dubboconsumer" target="1.8" />
+      <module name="dubbomain" target="1.5" />
+      <module name="dubboprovider" target="1.7" />
+      <module name="dubboutil" target="1.8" />
+      <module name="pfghmjk" target="1.7" />
+      <module name="springbootaa" target="1.8" />
+      <module name="springpootdubbo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

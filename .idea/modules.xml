@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dubboconsumer/dubboconsumer.iml" filepath="$PROJECT_DIR$/dubboconsumer/dubboconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbomain.iml" filepath="$PROJECT_DIR$/dubbomain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubboutil/dubboutil.iml" filepath="$PROJECT_DIR$/dubboutil/dubboutil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pfghmjk/pfghmjk.iml" filepath="$PROJECT_DIR$/pfghmjk/pfghmjk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootaa/springbootaa.iml" filepath="$PROJECT_DIR$/springbootaa/springbootaa.iml" />
+    </modules>
+  </component>
+</project>

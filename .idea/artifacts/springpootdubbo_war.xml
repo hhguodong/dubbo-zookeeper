@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springpootdubbo:war">
+    <output-path>$PROJECT_DIR$/springpootdubbo/target</output-path>
+    <root id="archive" name="springpoot-dubbo.war">
+      <element id="artifact" artifact-name="springpootdubbo:war exploded" />
+    </root>
+  </artifact>
+</component>

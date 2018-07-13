@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pfghmjk:war">
+    <output-path>$PROJECT_DIR$/pfghmjk/target</output-path>
+    <root id="archive" name="pfghmjk.war">
+      <element id="artifact" artifact-name="pfghmjk:war exploded" />
+    </root>
+  </artifact>
+</component>
